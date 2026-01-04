@@ -1,11 +1,11 @@
 # Nighty Tales 🎮
 
 A SwiftUI merge-and-battle game prototype
-Overview
+## Overview
 Nighty Tales is a simple yet system-driven SwiftUI game focused on merging, dragging, bouncing projectiles, and defending territory against waves of enemies.
 The screen is split into two dynamic zones: Player Territory (bottom) and Enemy Territory (top). Enemies actively pressure the player by expanding their zone and stealing money, while the player fights back using merged stars and an economic tower system.
 ---
-The project is designed as a gameplay prototype with clean architecture and readable systems for experimentation and further expansion.
+The project is designed as a gameplay prototype with clean architecture and readable systems for experimentation and further expansion. (not sure)
 
 ## Core Gameplay Features
 ### ⭐ Merge & Launch System
